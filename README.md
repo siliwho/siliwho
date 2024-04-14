@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ----
-- 🔭 I’m currently working on my bachelor's degree
-- 🌱 I’m currently learning cpp
+- 🔭  Embarking on Bachelor's voyage
+- 🌱  Nurturing the roots of C++
+- 💻 Decoding the computer's symphony
+- 😄 Exploring the kernel's intricate framework
 <!--
 **UttamaCoder/UttamaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
