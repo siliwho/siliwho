@@ -14,12 +14,7 @@
 - 🤝 I’m looking for help with **pcb designing**
 -  I'm interested in cybersecurity
 
-- 📫 How to reach me [**anantgyans4@gmail.com**](oneyebot@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anant gyan singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant gyan singhal" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me [**email**](oneyebot@gmail.com)
 
 
 <h3 align="left">Skills:</h3>
