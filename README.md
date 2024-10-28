@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sphuro" alt="Sphuro" /></a> </p> -->
 
-- 🔭 I’m currently working on **developing a TUI to change my wallpaper**
+- 🔭 I’m currently working on **making a bootloader**
 
 - 🌱 I’m currently learning **pcb designing, ML, kernel development**
 
@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with **pcb designing**
 -  I'm interested in cybersecurity
 
-- 📫 How to reach me [**anantgyans4@gmail.com**](anantgyans4@gmail.com)
+- 📫 How to reach me [**anantgyans4@gmail.com**](oneyebot@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
