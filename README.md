@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sphuro&label=Profile%20views&color=0e75b6&style=flat" alt="Sphuro" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sphuro" alt="Sphuro" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sphuro" alt="Sphuro" /></a> </p> 
 
 - 🔭 I’m currently working on **making a bootloader**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **pcb designing**
 -  I'm interested in cybersecurity
-
+-->
 - 📫 How to reach me [**email**](oneyebot@gmail.com)
 
 
