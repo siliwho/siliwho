@@ -16,8 +16,9 @@
 -->
 - 📫 How to reach me [**email**](oneyebot@gmail.com)
 
+### 🔧 Tools & Technologies:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,git,github,linux,kicad,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
 
 
-
-
+### 📈 GitHub Stats:
 ![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphuro&show_icons=true&theme=radical)
