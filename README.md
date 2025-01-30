@@ -19,7 +19,7 @@
 
 ### 🔧 Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,git,github,linux,kicad,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,git,github,linux,arduino,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
 
 ### GitHub Stats:
 
