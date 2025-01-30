@@ -23,5 +23,5 @@
 
 ### 📈 GitHub Stats:
 
-![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphuro&show_icons=true&theme=dark)  
-![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=dark)
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphuro&show_icons=true&theme=github_dark)  
+![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=github_dark&layout=compact)
