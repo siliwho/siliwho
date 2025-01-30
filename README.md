@@ -21,9 +21,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,git,github,linux,kicad,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 
 ![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphuro&show_icons=true&theme=github_dark)  
 
-### Language Used
+### Languages Used:
 ![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=github_dark&layout=compact)
