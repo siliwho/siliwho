@@ -23,4 +23,6 @@
 </p>
 
 
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphuro&show_icons=true&theme=radical)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sphuro&show_icons=true&locale=en" alt="Sphuro" /></p>
