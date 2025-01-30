@@ -22,5 +22,5 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,git,github,linux,arduino,figma,arch,vim,neovim&theme=dark)](https://skillicons.dev)
 
 ### GitHub Stats:
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphuro&hide=issues&show_icons=true&theme=dark)
-![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=dark&layout=compact)
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphuro&hide=issues&show_icons=true&theme=github_dark)
+![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=github_dark&layout=compact)
