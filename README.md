@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sphuro</h1>
 <div align="center">
-    <img src="sphuro.png" alt="Centered Image">
+    <img src="Sphuro.png" alt="Centered Image">
 </div>
 
 <h3 align="center">A passionate explorer</h3>
