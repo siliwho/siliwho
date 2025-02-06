@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sphuro</h1>
+<div align="center">
+    <img src="sphuro.png" alt="Centered Image">
+</div>
+
 <h3 align="center">A passionate explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sphuro&label=Profile%20views&color=0e75b6&style=flat" alt="Sphuro" /> </p>
@@ -39,8 +43,7 @@
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%230073C7.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%233397C7.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
-
-
 ### GitHub Stats:
+
 ![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphuro&hide=issues&show_icons=true&theme=github_dark)
 ![Anants's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphuro&theme=github_dark&layout=compact)
