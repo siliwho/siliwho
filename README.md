@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sphuro</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sphuro</h1> -->
 <div align="center">
     <img src="Sphuro.png" alt="Centered Image">
 </div>
