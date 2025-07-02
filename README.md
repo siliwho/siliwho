@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm siliwho</h1> -->
 <div align="center">
-    <img src="siliwho2.png" alt="Centered Image" width="100" height="100">
+    <img src="siliwho2.png" alt="Centered Image" width="150" height="150">
 </div>
 
 <!-- <h3 align="center">A passionate explorer</h3> -->
