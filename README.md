@@ -1,9 +1,9 @@
 <!-- <h1 align="center">Hi 👋, I'm siliwho</h1> -->
 <div align="center">
-    <img src="siliwho.png" alt="Centered Image">
+    <img src="siliwho2.png" alt="Centered Image" width="100" height="100">
 </div>
 
-<h3 align="center">A passionate explorer</h3>
+<!-- <h3 align="center">A passionate explorer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siliwho&label=Profile%20views&color=0e75b6&style=flat" alt="siliwho" /> </p>
 
@@ -19,7 +19,7 @@
 -  I'm interested in cybersecurity
 -->
 
-- 📫 How to reach me [**email**](oneyebot@gmail.com)
+- 📫 How to reach me [**email**](sanantgyan@gmail.com)
 
 ### 🔧 Tools & Technologies:
 
